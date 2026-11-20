@@ -1,47 +1,44 @@
-# Nordic Wallpapers
-A collection of wallpapers cherry picked from [reddit](https://reddit.com/r/ImageGoNord), [unsplash](https://unsplash.com/t/wallpapers),
-[Christian Chiarulli's discord server](https://discord.gg/Xb9B4Ny), [wallhaven](https://wallhaven.cc) and
-[ThePrimeagen's wallpaper repository](https://github.com/ThePrimeagen/anime).
-[Ferrari Las Vegas F1 Pictures](https://www.topgear.com/car-news/formula-one/ferraris-red-n-white-livery-las-vegas-gp).
+# Dracula Wallpapers
+Wallpapers in the [Dracula](https://draculatheme.com) color scheme, made by recoloring
+[linuxdotexe's Nordic Wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) from Nord to Dracula with
+[ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-pip) by [Schrödinger Hat](https://github.com/Schroedinger-Hat).
+
+The originals were cherry picked from [reddit](https://reddit.com/r/ImageGoNord), [unsplash](https://unsplash.com/t/wallpapers),
+[Christian Chiarulli's discord server](https://discord.gg/Xb9B4Ny), [wallhaven](https://wallhaven.cc),
+[ThePrimeagen's wallpaper repository](https://github.com/ThePrimeagen/anime) and
 [Linux_Dynamic_Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers.git).
-Most of 'em "norded" through
-[ImageGoNord](https://ign.schroedinger-hat.org "ImageGoNord") website from
-[Schrödinger Hat](https://github.com/Schroedinger-Hat).
 
-Previews of the wallpapers can be seen in [here](/wallpaper-preview.md).
+Previews of the wallpapers can be seen [here](/wallpaper-preview.md), and of the dynamic wallpapers [here](/dynamic-wallpapers-preview.md).
 
-Previews of the dynamic-wallpapers can be seen in [here](/dynamic-wallpapers-preview.md).
+## How they were made
+Running ImageGoNord straight on a Nord wallpaper with the 11 Dracula colors flattens it: Nord's four dark shades all land
+on one Dracula grey, its three whites on one white, and soft gradients turn into blotches. So `godracula.py` does it in two steps:
 
-## Here is an example
-<img src="https://user-images.githubusercontent.com/74004229/162493570-8fe1a179-fa8c-4a90-97c2-4a813fbb55df.png" width="1000" />
+1. **A Nord → Dracula color transfer** in the OKLab color space. Each of Nord's 16 colors goes to a chosen Dracula color
+   (Polar Night to the Dracula background shades, Snow Storm to Foreground, Frost to Comment, Purple and Cyan,
+   Aurora to Red, Orange, Yellow, Green and Pink), keeping Nord's lightness steps, and the colors in between follow smoothly.
+2. **ImageGoNord** snaps the result onto the Dracula palette. Photos and soft gradients that were never quantized to Nord
+   keep the transfer alone, because quantizing them makes visible bands.
 
-This is the [original image](https://images.unsplash.com/photo-1500338427510-5deb175987d2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1954&q=80)
-and [this](wallpapers/ign_unsplash4.png) is the result after being processed by ImageGoNord.
+Some wallpapers didn't make the trip. Nord's colors are muted and sit close together, while Dracula's are bright and far
+apart, so a few images can't be carried over: mostly-light images (Dracula is a dark theme), the Formula One photos
+(real team liveries), the Nord logo, and photos whose muted Nord tones turned into neon blotches. Of the original 236
+wallpapers 215 are here; of the 107 dynamic sets 78 are (a set was dropped whole if any of its frames didn't work).
 
-## Made with ImageGoNord
-I found this project [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) and I absolutely loved it. I started making all the wallpapers I liked to match my WM's colorscheme. I then thought I should make this a collection for others to use too since there are many ricing enthusiasts around the world. This could not have been possible without the [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) project by [Schrödinger Hat](https://github.com/Schroedinger-Hat). You can sponser this open-source project through the following links:
-
-1. https://opencollective.com/schrodinger-hat
-
-You can also buy their merch at https://shop.schroedinger-hat.org/
-
-### Converting images with ImageGoNord
-
-Images can be converted in bulk using `gonord.py`. Just change the input and destinations folders.
-
-## NOTE
-This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬
-
-## BTW
-For Arch Linux User, you can just install these wallpapers via AUR.
+### Converting images
 
 ```bash
-paru -S nordic-wallpapers
+pip install image-go-nord
+python godracula.py path/to/image-or-folder ... --out converted/
 ```
 
-You can find these wallpapers in `/usr/share/backgrounds/nordic-wallpapers/`.
+Without `--out` the files are replaced in place. The tests run with `pytest tests`.
 
-## Thanks to all the contributors :)
+## Made with ImageGoNord
+This could not have been possible without the [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) project by
+[Schrödinger Hat](https://github.com/Schroedinger-Hat). You can sponsor it at https://opencollective.com/schrodinger-hat.
+
+## Thanks to all the contributors of the original collection :)
 
 <a href = "https://github.com/linuxdotexe/nordic-wallpapers/graphs/contributors">
 
