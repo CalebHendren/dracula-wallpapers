@@ -3,24 +3,6 @@
 ![](dynamic-wallpapers/Adwaita/ign_adwaita-morning.jpg)
 ![](dynamic-wallpapers/Adwaita/ign_adwaita-night.jpg)
 
-# AnimeRoomBoard
-![](dynamic-wallpapers/AnimeRoomBoard/ign_AnimeRoomBoard-1.jpg)
-![](dynamic-wallpapers/AnimeRoomBoard/ign_AnimeRoomBoard-2.jpg)
-
-# Aura
-![](dynamic-wallpapers/Aura/ign_Aura-1.png)
-![](dynamic-wallpapers/Aura/ign_Aura-2.png)
-
-# BigSur
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-1.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-2.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-3.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-4.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-5.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-6.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-7.jpg)
-![](dynamic-wallpapers/BigSur/ign_Big_macOS_Sur-8.jpg)
-
 # BigSurV2
 ![](dynamic-wallpapers/BigSurV2/ign_BigSurV2_01.jpg)
 ![](dynamic-wallpapers/BigSurV2/ign_BigSurV2_02.jpg)
@@ -56,10 +38,6 @@
 ![](dynamic-wallpapers/ChromeOSFire/ign_ChromeOSFire-1.png)
 ![](dynamic-wallpapers/ChromeOSFire/ign_ChromeOSFire-2.png)
 
-# ChromeOSGreens
-![](dynamic-wallpapers/ChromeOSGreens/ign_ChromeOSGreens-1.png)
-![](dynamic-wallpapers/ChromeOSGreens/ign_ChromeOSGreens-2.png)
-
 # ChromeOSReds
 ![](dynamic-wallpapers/ChromeOSReds/ign_ChromeOSReds-1.png)
 ![](dynamic-wallpapers/ChromeOSReds/ign_ChromeOSReds-2.png)
@@ -71,10 +49,6 @@
 # ChromeOSWind
 ![](dynamic-wallpapers/ChromeOSWind/ign_ChromeOSWind-1.png)
 ![](dynamic-wallpapers/ChromeOSWind/ign_ChromeOSWind-2.png)
-
-# ChromeOSYellows
-![](dynamic-wallpapers/ChromeOSYellows/ign_ChromeOSYellows-1.png)
-![](dynamic-wallpapers/ChromeOSYellows/ign_ChromeOSYellows-2.png)
 
 # Coast
 ![](dynamic-wallpapers/Coast/ign_Coast-01.jpg)
@@ -88,66 +62,17 @@
 ![](dynamic-wallpapers/CorporationStreet/ign_CorporationStreet-1.jpg)
 ![](dynamic-wallpapers/CorporationStreet/ign_CorporationStreet-2.jpg)
 
-# cyberpunk-01
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-0.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-10.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-11.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-12.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-13.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-14.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-15.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-1.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-2.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-3.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-4.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-5.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-6.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-7.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-8.jpg)
-![](dynamic-wallpapers/cyberpunk-01/ign_cyberpunk-01-9.jpg)
-
 # DeadTree
 ![](dynamic-wallpapers/DeadTree/ign_DeadTree-1.png)
 ![](dynamic-wallpapers/DeadTree/ign_DeadTree-2.png)
-
-# Desert
-![](dynamic-wallpapers/Desert/ign_Desert1.jpg)
-![](dynamic-wallpapers/Desert/ign_Desert2.jpg)
-
-# DesertPeak
-![](dynamic-wallpapers/DesertPeak/ign_DesertPeak-0.jpg)
-![](dynamic-wallpapers/DesertPeak/ign_DesertPeak-1.jpg)
-
-# DesertSands
-![](dynamic-wallpapers/DesertSands/ign_DesertSands-1.png)
-![](dynamic-wallpapers/DesertSands/ign_DesertSands-2.png)
-![](dynamic-wallpapers/DesertSands/ign_DesertSands-3.png)
-![](dynamic-wallpapers/DesertSands/ign_DesertSands-4.png)
-![](dynamic-wallpapers/DesertSands/ign_DesertSands-5.png)
-
-# DesertTree
-![](dynamic-wallpapers/DesertTree/ign_DesertTree-0.jpg)
-![](dynamic-wallpapers/DesertTree/ign_DesertTree-1.jpg)
-
-# DesertValley
-![](dynamic-wallpapers/DesertValley/ign_DesertValley-0.jpg)
-![](dynamic-wallpapers/DesertValley/ign_DesertValley-1.jpg)
 
 # Disco
 ![](dynamic-wallpapers/Disco/ign_Disco-1.jpg)
 ![](dynamic-wallpapers/Disco/ign_Disco-2.jpg)
 
-# Dome
-![](dynamic-wallpapers/Dome/ign_Dome-0.png)
-![](dynamic-wallpapers/Dome/ign_Dome-1.png)
-
 # DynamicFry
 ![](dynamic-wallpapers/DynamicFry/ign_DynamicFry-0.png)
 ![](dynamic-wallpapers/DynamicFry/ign_DynamicFry-1.png)
-
-# Elementary-OS-Odin
-![](dynamic-wallpapers/Elementary-OS-Odin/ign_Elementary-OS-Odin-1.jpg)
-![](dynamic-wallpapers/Elementary-OS-Odin/ign_Elementary-OS-Odin-2.jpg)
 
 # EOS-SnowCappedMountain
 ![](dynamic-wallpapers/EOS-SnowCappedMountain/ign_EOS-SnowCappedMountain01.jpg)
@@ -166,10 +91,6 @@
 # EOS-WeYamle
 ![](dynamic-wallpapers/EOS-WeYamle/ign_EOS-WeYamle-01.jpg)
 ![](dynamic-wallpapers/EOS-WeYamle/ign_EOS-WeYamle-02.jpg)
-
-# ExternalHimitsuHouse
-![](dynamic-wallpapers/ExternalHimitsuHouse/ign_ExternalHimitsuHouse-1.jpg)
-![](dynamic-wallpapers/ExternalHimitsuHouse/ign_ExternalHimitsuHouse-2.jpg)
 
 # FedeMarinMountain
 ![](dynamic-wallpapers/FedeMarinMountain/ign_FedeMarinMountain-0.png)
@@ -194,14 +115,6 @@
 ![](dynamic-wallpapers/Fluent/ign_Fluent-2.jpg)
 ![](dynamic-wallpapers/Fluent/ign_Fluent-3.jpg)
 
-# FluidifiedST
-![](dynamic-wallpapers/FluidifiedST/ign_FluidifiedST-1.png)
-![](dynamic-wallpapers/FluidifiedST/ign_FluidifiedST-2.png)
-
-# FocalFossa
-![](dynamic-wallpapers/FocalFossa/ign_FocalFossa-1.png)
-![](dynamic-wallpapers/FocalFossa/ign_FocalFossa-2.png)
-
 # Fuji
 ![](dynamic-wallpapers/Fuji/ign_Fuji-1.png)
 ![](dynamic-wallpapers/Fuji/ign_Fuji-2.png)
@@ -210,21 +123,9 @@
 ![](dynamic-wallpapers/Globe/ign_Globe-1.png)
 ![](dynamic-wallpapers/Globe/ign_Globe-2.png)
 
-# GroovyGorilla
-![](dynamic-wallpapers/GroovyGorilla/ign_GroovyGorilla-1.png)
-![](dynamic-wallpapers/GroovyGorilla/ign_GroovyGorilla-2.png)
-
-# Hills
-![](dynamic-wallpapers/Hills/ign_Hills-1.png)
-![](dynamic-wallpapers/Hills/ign_Hills-2.png)
-
 # HimitsuHouse
 ![](dynamic-wallpapers/HimitsuHouse/ign_HimitsuHouse-1.jpg)
 ![](dynamic-wallpapers/HimitsuHouse/ign_HimitsuHouse-2.jpg)
-
-# HirsuitHippo
-![](dynamic-wallpapers/HirsuitHippo/ign_HirsuitHippo-1.png)
-![](dynamic-wallpapers/HirsuitHippo/ign_HirsuitHippo-2.png)
 
 # HirsuteHippoBlue
 ![](dynamic-wallpapers/HirsuteHippoBlue/ign_HirsuteHippoBlue-1.png)
@@ -364,18 +265,9 @@
 ![](dynamic-wallpapers/PadarIsland/ign_PadarIsland-0.png)
 ![](dynamic-wallpapers/PadarIsland/ign_PadarIsland-1.png)
 
-# PaintingStudio
-![](dynamic-wallpapers/PaintingStudio/ign_PaintingStudio-01.png)
-![](dynamic-wallpapers/PaintingStudio/ign_PaintingStudio-02.png)
-![](dynamic-wallpapers/PaintingStudio/ign_PaintingStudio-03.png)
-
 # PlasticBeach
 ![](dynamic-wallpapers/PlasticBeach/ign_PlasticBeach-1.png)
 ![](dynamic-wallpapers/PlasticBeach/ign_PlasticBeach-2.png)
-
-# Plateau
-![](dynamic-wallpapers/Plateau/ign_Plateau-1.png)
-![](dynamic-wallpapers/Plateau/ign_Plateau-2.png)
 
 # Riverside
 ![](dynamic-wallpapers/Riverside/ign_Riverside-1.jpg)
@@ -389,10 +281,6 @@
 ![](dynamic-wallpapers/Rocknegy/ign_Rocknegy-1.png)
 ![](dynamic-wallpapers/Rocknegy/ign_Rocknegy-2.png)
 
-# Rocksketto
-![](dynamic-wallpapers/Rocksketto/ign_Rocksketto-1.png)
-![](dynamic-wallpapers/Rocksketto/ign_Rocksketto-2.png)
-
 # RockyMountain
 ![](dynamic-wallpapers/RockyMountain/ign_RockyMountain1.jpg)
 ![](dynamic-wallpapers/RockyMountain/ign_RockyMountain2.jpg)
@@ -400,10 +288,6 @@
 # SolidDesert
 ![](dynamic-wallpapers/SolidDesert/ign_SolidDesert-1.png)
 ![](dynamic-wallpapers/SolidDesert/ign_SolidDesert-2.png)
-
-# SolidForest
-![](dynamic-wallpapers/SolidForest/ign_SolidForest-1.png)
-![](dynamic-wallpapers/SolidForest/ign_SolidForest-2.png)
 
 # SolidIsland
 ![](dynamic-wallpapers/SolidIsland/ign_SolidIsland-1.png)
@@ -421,10 +305,6 @@
 ![](dynamic-wallpapers/StepbyStep/ign_StepbyStep-1.png)
 ![](dynamic-wallpapers/StepbyStep/ign_StepbyStep-2.png)
 
-# StevenUniverse
-![](dynamic-wallpapers/StevenUniverse/ign_StevenUniverse-1.png)
-![](dynamic-wallpapers/StevenUniverse/ign_StevenUniverse-2.png)
-
 # Surface
 ![](dynamic-wallpapers/Surface/ign_Surface01.jpg)
 ![](dynamic-wallpapers/Surface/ign_Surface02.jpg)
@@ -438,10 +318,6 @@
 ![](dynamic-wallpapers/SurfaceBreeze/ign_SurfaceBreeze-2.jpg)
 ![](dynamic-wallpapers/SurfaceBreeze/ign_SurfaceBreeze-3.jpg)
 ![](dynamic-wallpapers/SurfaceBreeze/ign_SurfaceBreeze-4.jpg)
-
-# Symbolics
-![](dynamic-wallpapers/Symbolics/ign_Symbolics-1.png)
-![](dynamic-wallpapers/Symbolics/ign_Symbolics-2.png)
 
 # TheBeach
 ![](dynamic-wallpapers/TheBeach/ign_TheBeach-01.jpg)
@@ -463,17 +339,9 @@
 ![](dynamic-wallpapers/Truchet/ign_Truchet-1.jpg)
 ![](dynamic-wallpapers/Truchet/ign_Truchet-2.jpg)
 
-# UbuntuMinimal
-![](dynamic-wallpapers/UbuntuMinimal/ign_UbuntuMinimal01.jpg)
-![](dynamic-wallpapers/UbuntuMinimal/ign_UbuntuMinimal02.jpg)
-
 # Viragegy
 ![](dynamic-wallpapers/Viragegy/ign_Viragegy-1.png)
 ![](dynamic-wallpapers/Viragegy/ign_Viragegy-2.png)
-
-# Viragharom
-![](dynamic-wallpapers/Viragharom/ign_Viragharom-1.png)
-![](dynamic-wallpapers/Viragharom/ign_Viragharom-2.png)
 
 # Viragnegy
 ![](dynamic-wallpapers/Viragnegy/ign_Viragnegy-1.png)
@@ -506,21 +374,6 @@
 # Wiravketto
 ![](dynamic-wallpapers/Wiravketto/ign_Wiravketto-1.png)
 ![](dynamic-wallpapers/Wiravketto/ign_Wiravketto-2.png)
-
-# ZorinBlur
-![](dynamic-wallpapers/ZorinBlur/ign_afternoon.png)
-![](dynamic-wallpapers/ZorinBlur/ign_evening.png)
-![](dynamic-wallpapers/ZorinBlur/ign_late-morning.png)
-![](dynamic-wallpapers/ZorinBlur/ign_midday.png)
-![](dynamic-wallpapers/ZorinBlur/ign_night.png)
-![](dynamic-wallpapers/ZorinBlur/ign_sunrise.png)
-
-# ZorinMountain
-![](dynamic-wallpapers/ZorinMountain/ign_Day.jpg)
-![](dynamic-wallpapers/ZorinMountain/ign_Evening.jpg)
-![](dynamic-wallpapers/ZorinMountain/ign_Night.jpg)
-![](dynamic-wallpapers/ZorinMountain/ign_Sunrise.jpg)
-![](dynamic-wallpapers/ZorinMountain/ign_Twilight.jpg)
 
 # ZorinMountainFog
 ![](dynamic-wallpapers/ZorinMountainFog/ign_ZorinMountainFog1.jpg)

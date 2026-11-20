@@ -20,8 +20,10 @@ on one Dracula grey, its three whites on one white, and soft gradients turn into
 2. **ImageGoNord** snaps the result onto the Dracula palette. Photos and soft gradients that were never quantized to Nord
    keep the transfer alone, because quantizing them makes visible bands.
 
-A few wallpapers didn't make the trip: mostly-light images (Dracula is a dark theme), the Formula One photos (real
-team liveries), the Nord logo, and a few whose muted Nord colors turned into neon blotches.
+Some wallpapers didn't make the trip. Nord's colors are muted and sit close together, while Dracula's are bright and far
+apart, so a few images can't be carried over: mostly-light images (Dracula is a dark theme), the Formula One photos
+(real team liveries), the Nord logo, and photos whose muted Nord tones turned into neon blotches. Of the original 236
+wallpapers 215 are here; of the 107 dynamic sets 78 are (a set was dropped whole if any of its frames didn't work).
 
 ### Converting images
 
